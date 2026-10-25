@@ -2,25 +2,39 @@
 
 Add clear, honest descriptions of academic and personal projects.
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+## Project 1: Smart Stress Monitoring System for Mental Well-Being
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+- **Problem:** Identifying and monitoring stress levels can be difficult without continuous assessment.
+- **Solution:** Developed an AI-powered system combining facial emotion recognition, vital-sign estimation, and questionnaire analysis to assess stress levels and provide wellness recommendations.
+- **Technologies:** Python, Flask, React.js, Bootstrap, TensorFlow, Keras, OpenCV, MySQL, Android Studio, Java, Firebase.
+- **My contribution:** Contributed to deep learning and application development as part of a four-member team.
+- **What I Learned:** Deep learning, facial emotion recognition, full-stack development, and AI integration.
+- **Future Improvement:** Deploy the application to the cloud and improve prediction accuracy.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+## Project 2: Library Management System
+
+- **Problem:** Managing books, member records, and book issue/return operations manually can be time-consuming.
+- **Solution:** Developed a Java-based library management application with database connectivity for managing books, members, and transactions.
+- **Technologies:** Java, MySQL, JDBC, HTML, CSS, JavaScript.
+- **My contribution:** Collaborated with a four-member team to develop the application.
+- **What I Learned:** Java programming, JDBC connectivity, SQL queries, and database management.
+- **Future Improvement:** Add advanced search, fine calculation, and reporting features.
+
+## Project 3: MERN Stack Project
+
+- **Problem:**  Managing information through disconnected or manual processes can reduce efficiency.
+- **Solution:** Developed a web application using the MERN stack to organise information and provide an interactive user experience.
+- **Technologies:** MongoDB, Express.js, React.js, Node.js.
+- **My contribution:** Collaborated with a four-member team on application development
+- **What I Learned:** Full-stack development, REST APIs, database integration, and teamwork.
+- **Future Improvement:** Add authentication, improve security, and deploy the application.
+
+## Project 4: Educational Quality Analysis
+
+- **Problem:**  Understanding student feedback and educational quality can be challenging without systematic analysis.
+- **Solution:**  Developed a project to analyse educational data and support the identification of areas for improvement.
+- **Technologies:** Python, Data Analysis, Pandas, NumPy.
+- **My contribution:** Collaborated with a four-member team on project development and analysis.
+- **What I Learned:** Data processing, analytical thinking, and collaborative development.
+- **Future Improvement:** Add interactive visualisations and advanced analytical techniques.
+

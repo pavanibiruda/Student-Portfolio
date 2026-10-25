@@ -2,9 +2,9 @@
 
 Use only professional contact information you are comfortable making public.
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
+- **Name:** B Purnima Pavani Ganga 
+- **Email:** purnimapavanigangabiruda@gmail.com
+- **GitHub:** https://github.com/pavanibiruda
 - **LinkedIn:** Add your profile URL if available
 - **Location:** Optional — city or region only
 

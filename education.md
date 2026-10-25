@@ -1,9 +1,9 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
+- **Branch:** Artificial Intelligence 
+- **Institution:** Aditya University
+- **Study period:** 2022–2028
 - **CGPA / Percentage:** Add if you wish to share it
 
 ## Relevant Coursework
@@ -12,6 +12,7 @@
 - Database Management Systems
 - Computer Networks
 - Software Engineering
+- Machine Learning
 
 ## Achievements and Certifications
 - Add verified certifications, hackathons, awards, or academic achievements.
