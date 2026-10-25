@@ -1,12 +1,20 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Artificial Intelligence 
+
+- **Branch:** Artificial Intelligence and Machine Learning (AIML)
 - **Institution:** Aditya University
-- **Study period:** 2022–2028
-- **CGPA / Percentage:** Add if you wish to share it
+- **Current Status:** Pursuing — 3rd Year, 5th Semester
+- **Expected Graduation:** 2028
+
+## Diploma
+
+- **Branch:** Artificial Intelligence and Machine Learning (AIML)
+- **Institution:** Pydah College of Engineering
+- **Status:** Completed in 2025
 
 ## Relevant Coursework
+
 - Programming Fundamentals
 - Data Structures and Algorithms
 - Database Management Systems
@@ -15,5 +23,7 @@
 - Machine Learning
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+
+- IBM SkillsBuild — Getting Started with Artificial Intelligence
+- Infosys certifications — Add the specific course names and completion details.
+- Coursera certifications — Add the specific course names and completion details.
