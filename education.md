@@ -21,9 +21,3 @@
 - Computer Networks
 - Software Engineering
 - Machine Learning
-
-## Achievements and Certifications
-
-- IBM SkillsBuild — Getting Started with Artificial Intelligence
-- Infosys certifications — Add the specific course names and completion details.
-- Coursera certifications — Add the specific course names and completion details.
